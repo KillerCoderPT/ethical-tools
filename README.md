@@ -1,6 +1,6 @@
 # Ethical Tools
 
-### Brute Force Program
+## Brute Force Program
 
 This script is a tool to find the correct password for the user provided.
 
@@ -16,13 +16,13 @@ The script will ask for a URL, a username, a password list file and the string w
 
 During my tests I found this github repo very usefully, https://github.com/berzerk0/Probable-Wordlists it contains a very large passwords list texts that you can use.
 
-##### Note
+#### Note
 
 Before using, you need to check that the name of the HTML fields match the names of the code.
 
 The fiels are `username` and `password`, you need to change this or sometimes this will not work. If you don't know what I'm talking about. This tool is not for you.
 
-### Port Scanner
+## Port Scanner
 
 This script is a tool to find open ports on the target provided.
 
