@@ -16,7 +16,7 @@ The script will ask for a URL, a username, a password list file and the string w
 
 During my tests I found this github repo very usefully, https://github.com/berzerk0/Probable-Wordlists it contains a very large passwords list texts that you can use.
 
-#### Note
+#### Note:
 
 Before using, you need to check that the name of the HTML fields match the names of the code.
 
